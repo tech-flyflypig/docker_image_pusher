@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 frooodle/s-pdf:latest
 jeessy/ddns-go
-jyhking/onecloud:latest
+jyhking/onecloud:1.1
+jyhking/onecloud:1.2
